@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 지원이 홈페이지</title>
-    <link>https://kibumh/github.io/jiwonj/tags/</link>
+    <link>https://kibumh.github.io/jiwonh/tags/</link>
     <description>Recent content in Tags on 지원이 홈페이지</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     
-	<atom:link href="https://kibumh/github.io/jiwonj/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kibumh.github.io/jiwonh/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
