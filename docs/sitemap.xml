@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kibumh/github.io/jiwonj/posts/201901-snowy-land/</loc>
+    <lastmod>2019-01-27T19:24:55+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kibumh/github.io/jiwonj/posts/my-first-post/</loc>
+    <lastmod>2019-01-27T18:55:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kibumh/github.io/jiwonj/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kibumh/github.io/jiwonj/posts/</loc>
+    <lastmod>2019-01-27T19:24:55+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kibumh/github.io/jiwonj/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kibumh/github.io/jiwonj/</loc>
+    <lastmod>2019-01-27T19:24:55+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

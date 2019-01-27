@@ -1,0 +1,5 @@
+baseURL = "https://kibumh/github.io/jiwonj"
+languageCode = "ko-kr"
+title = "지원이 홈페이지"
+theme = "ananke"
+publishDir = "docs"
